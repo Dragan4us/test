@@ -1,0 +1,77 @@
+h1 /* komentar */
+{
+color: red;
+}
+
+#naslov
+{
+color: blue;
+}
+
+.moj-klass
+{
+color: yellow;
+}
+
+#slika1:hover
+{
+border: 6px red solid;
+}
+
+#navigation
+{
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+
+#main
+{
+background-color: green;
+width: 200px;
+margin: 0 auto;
+height: 50px;
+}
+
+.move
+{
+background-color: purple;
+margin: 100px;
+pedding: 100px;
+}
+
+.relative1
+{
+background-color: red;
+position: relative;
+width: 300px;
+height: 50px;
+}
+
+.relative2
+{
+background-color: beige;
+position: relative;
+top: -20px;
+left: 20px;
+with: 200px;
+height: 50px;
+}
+
+#cookie
+{
+position: fixed;
+bottom: 0px;
+right: 0px;
+width: 200px;
+height: 50px;
+background-color: blue;
+}
+
+.class
+{
+background-color: red;
+widgt: 200px;
+display: inline-block;
+
+}
